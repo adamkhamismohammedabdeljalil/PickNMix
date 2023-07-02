@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\bin\Debug\net6.0\PickNMix.exe
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\bin\Debug\net6.0\PickNMix.deps.json
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\bin\Debug\net6.0\PickNMix.runtimeconfig.json
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\bin\Debug\net6.0\PickNMix.dll
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\bin\Debug\net6.0\PickNMix.pdb
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.dll
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\refint\PickNMix.dll
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.pdb
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\PickNMix.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\PickNMix\PickNMix\obj\Debug\net6.0\ref\PickNMix.dll
